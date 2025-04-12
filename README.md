@@ -7,4 +7,4 @@ Quick access to key Python resources for quantitative finance and trading.
 - 📊 [vectorbt – Backtesting Library](https://vectorbt.dev/)  
 - 💱 [CCXT – Crypto Trading API](https://docs.ccxt.com/#/)
 
-- FX Derivatives Trader School: https://gaussiandotblog.wordpress.com/wp-content/uploads/2018/02/wiley-trading-giles-peter-jewitt-fx-derivatives-trader-school-2015-wiley.pdf
+- [FX Derivatives Trader School Book](https://gaussiandotblog.wordpress.com/wp-content/uploads/2018/02/wiley-trading-giles-peter-jewitt-fx-derivatives-trader-school-2015-wiley.pdf)
