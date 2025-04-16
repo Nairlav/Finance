@@ -8,3 +8,4 @@ Quick access to key Python resources for quantitative finance and trading.
 - 💱 [CCXT – Crypto Trading API](https://docs.ccxt.com/#/)
 
 - [FX Derivatives Trader School Book](https://gaussiandotblog.wordpress.com/wp-content/uploads/2018/02/wiley-trading-giles-peter-jewitt-fx-derivatives-trader-school-2015-wiley.pdf)
+- [LTSM_GRU link](https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632)
