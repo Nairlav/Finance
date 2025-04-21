@@ -69,7 +69,7 @@ while True :
 
 
     # optional; defaults to os.environ['OPENAI_API_KEY']
-    openai.api_key = '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'
+    openai.api_key = ''
 
 
     print("One appele Chat")
@@ -115,4 +115,4 @@ while True :
         writer.writerows(donnees)
         print("Tout est bon pour les fichiers")
 
-    api_key = "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"  # Replace with your API key
+    api_key = ""  # Replace with your API key
